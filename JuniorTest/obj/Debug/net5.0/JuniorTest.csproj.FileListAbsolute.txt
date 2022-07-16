@@ -1,0 +1,16 @@
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\bin\Debug\net5.0\JuniorTest.exe
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\bin\Debug\net5.0\JuniorTest.deps.json
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\bin\Debug\net5.0\JuniorTest.runtimeconfig.json
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\bin\Debug\net5.0\JuniorTest.runtimeconfig.dev.json
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\bin\Debug\net5.0\JuniorTest.dll
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\bin\Debug\net5.0\ref\JuniorTest.dll
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\bin\Debug\net5.0\JuniorTest.pdb
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\obj\Debug\net5.0\JuniorTest.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\obj\Debug\net5.0\JuniorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\obj\Debug\net5.0\JuniorTest.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\obj\Debug\net5.0\JuniorTest.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\obj\Debug\net5.0\JuniorTest.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\obj\Debug\net5.0\JuniorTest.dll
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\obj\Debug\net5.0\ref\JuniorTest.dll
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\obj\Debug\net5.0\JuniorTest.pdb
+C:\Users\Александр\Desktop\Projects\JuniorTest\JuniorTest\obj\Debug\net5.0\JuniorTest.genruntimeconfig.cache
